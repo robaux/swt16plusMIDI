@@ -8,6 +8,8 @@ To enable the Sequencer to output MIDI data, it is necessary to build an adapter
 
 ![MIDI Adapter](https://robaux.io/update/swt16plus/swt16plusMIDIAdapter.jpg)
 
+![MIDI Adapter](https://robaux.io/update/swt16plus/swt16plusMIDIAdapter2.jpg)
+
 ## Update your Module
 
 #### <span style="color:red">Attention: When updating the firmware, all patterns and settings will be overwritten!</span>
