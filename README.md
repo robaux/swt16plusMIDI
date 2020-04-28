@@ -16,7 +16,7 @@ To transfer a firmware update you need a computer with a serial USB interface. S
 
 You also need the transfer program [AVRDude](https://typeunsafe.wordpress.com/2011/07/22/programming-arduino-with-avrdude/) which comes with the [Arduino software](https://www.arduino.cc/en/main/software). AVRDude is a command line utility. But there are also graphical interfaces, for example [HexUploader](http://paulkaplan.me/HexUploader/) (MacOS) or [Xloader](http://xloader.russemotto.com/) (Windows).
 
-The [Update](https://github.com/robaux/swt16plusMIDI/tree/master/update) folder contains the firmware hex files which you can transfer to the device.
+The [Firmware](https://github.com/robaux/swt16plusMIDI/tree/master/firmware) folder contains the firmware hex files which you can transfer to the device.
 
 Select the version you want to transfer. Connect your Robaux SWT16+ to your serial port as shown in the pictures.
 
